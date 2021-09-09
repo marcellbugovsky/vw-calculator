@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle VW Calculator",
+        "command": "vw-calculator:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "VW Calculator",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vw-calculator:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

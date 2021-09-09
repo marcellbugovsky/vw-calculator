@@ -1,0 +1,22 @@
+{
+  "name": "vw-calculator",
+  "main": "./lib/vw-calculator",
+  "version": "1.0.0",
+  "author": "Marcell Bugovsky (https://github.com/marcellbugovsky)",
+  "description": "VW Calculator for Emarsys Webproduction",
+  "keywords": [
+    "viewport",
+    "vw",
+    "calculator"
+  ],
+  "activationCommands": {
+    "atom-workspace": "vw-calculator:toggle"
+  },
+  "repository": "https://github.com/marcellbugovsky/atom-vw-calculator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
